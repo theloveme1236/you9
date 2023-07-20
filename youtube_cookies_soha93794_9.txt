@@ -1,0 +1,17 @@
+.youtube.com	True	/	True	1721356327	__Secure-3PSIDCC	APoG2W-C-50_jnEbwSOVXCNCRh2dzyclJCSY9eJ9osjUvQe7ZmszG4PBQfJ1igwAPxFb3giDtA
+.youtube.com	True	/	True	1721356327	__Secure-1PSIDCC	APoG2W_UDffKJljGCf4u-Y60niXSVtlT6QWbtGSArr5_mBWNtNec7saT4vMePo9Bmt7brT6L
+.youtube.com	True	/	False	1721356327	SIDCC	APoG2W8Y57sbUjly-qsX1W4mapDnCBgaThS4qDhnpgCwigTvQH7HADjlVb_WiS1yzAiN9mhR
+.youtube.com	True	/	True	1724380315	PREF	tz=Etc.GMT%2B8
+.youtube.com	True	/	False	1724380305	SID	YwjpYgbBwGjdwEEI-0Ufv3h39r9LDUu6pclVo9ZIStcAAgoTsk7OaOY-yyw3iTmeeu2--A.
+.youtube.com	True	/	True	1689820425	YTSESSION-1b	ADayArO1t0tmJs4y1cHYOXRnGHckuo7R2n7qPLO4mxN5z1wgsMdtjQjyGfih3gLaNKO+IdKMwPzvcc+Bo+MU5EUUfGnQxbaMHkrizq6pRX/n
+.youtube.com	True	/	True	1705372305	VISITOR_INFO1_LIVE	qAwYGmP5Nls
+.youtube.com	True	/	True	1724380305	LOGIN_INFO	AFmmF2swRQIgV_UNa2ZW2aQTvH9sRPf6MEB_buhqj8IRbrsTddDldssCIQCkKhM_35RH9yfFvh37PUbM49qIfVyxwOAzrkw7fbmlOg:QUQ3MjNmd2dxejNpTUpLY2wzLUsyQW1HTzFRUERVRUp5VTJGeGxXUGQ0ZmRfb0otWThIRHl5STZCVzdjS3BiRGRtNlNsT3ZkLWFkOEdOck5uUDk1MU5RMHRNZTYyN1g1ZUFXQkRoU25VX1Q1aldZNUhpQ0VzeWhfZzlWYklmLXVqZVI4XzRCczlQVVBGYV9xTFQxMmVSVUlGT3owZXdFZXFB
+.youtube.com	True	/	True	1724380305	__Secure-3PAPISID	pSfB1umZP6RBnlV2/Ab_KSTlgxLY2xnEQv
+.youtube.com	True	/	True	1724380305	__Secure-3PSID	YwjpYgbBwGjdwEEI-0Ufv3h39r9LDUu6pclVo9ZIStcAAgoTRTq0ykhxVa_ABb209C4SwA.
+.youtube.com	True	/	False	1724380305	APISID	w17FtfPuBMNB_miL/AbCTkyzhJLGrkajT3
+.youtube.com	True	/	True	1724380305	__Secure-1PAPISID	pSfB1umZP6RBnlV2/Ab_KSTlgxLY2xnEQv
+.youtube.com	True	/	True	1724380305	__Secure-1PSID	YwjpYgbBwGjdwEEI-0Ufv3h39r9LDUu6pclVo9ZIStcAAgoT5PU6CYBKLaWnGMGtrWDF-A.
+.youtube.com	True	/	True	1724380305	SAPISID	pSfB1umZP6RBnlV2/Ab_KSTlgxLY2xnEQv
+.youtube.com	True	/	True	1724380305	SSID	AairlRm3nK8awzZdo
+.youtube.com	True	/	True	0	YSC	Vcl5LMTu4EY
+.youtube.com	True	/	False	1724380305	HSID	AyAGoCrKL3S5t2PdJ
